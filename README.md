@@ -19,6 +19,26 @@ PRESENTATION RAW DATA EXAMPLE
 The dataset itself holds many different subsections of data that sum together to reach the 'total' for a specific section and allows for not only a larger 'final' value to use in comparison graphs, but also see better what values have been trending higher that are contributing the most. For this project in particular the most important and used subsection of code is 'total_food_at_home_expenditures_(millions_of_nominal_u.s._dollars)' as it focuses entierly on the purchasing of food without taking into acount eating out or events but on groceries and preparing one's own meals.
 
 ## Meathods:
-
+Tools:
+- NumPy, Seaborne, Pandas, and Scikit-learn for data analysis and inference
+- GitHub for code housing and submission
+- Jupyter Notebook & Google Colab for sharing code and testing of code before merging
+Meathods:
+- Linear Regression under 3 of 5 questions to help analysis and understanding
+- Data cleaning / munging through:
+    - Shortening / Streching code to have comparable lengths
+    - Merging of data points to allow for consistent increments (converting from monlthy data points to yearly data points)
+    - Convergion of 3 data sets of smaller increments into 1 single dataset containing all the information for better access 
+    - Conversion of data values to better units of measurements and significant figures to allow for better reading from code processes.
 
 ## Results:
+
+
+
+## Discussion:
+
+
+
+## Summary:
+
+
