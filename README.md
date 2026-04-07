@@ -13,11 +13,12 @@ The datasets and values to try and reach a better understanding of food costs an
 The majority of the data can be cortioned off into 4 sections, the analytical data of cost of food, the data of wage changes and growth, the same analyis with inflation, and the correlation of household population with the changing times and generations. While the first section is self explainatory as the more cost data there are in food production and purchases over the years allows more a more accurate analysis of what readings are achived there will be, for the remaining 3, the data is to act as important factors that can easily be compared and be able to be done so with little leaps in logic or further steps to the core data of cost analysis. 
 
 An example of a core Department of Agriculture dataset that was used in the project is as follows:
+
 PRESENTATION RAW DATA EXAMPLE
 
-The dataset itself holds many different subsections of data that sum together to reach the 'total' for a specific section and allows for not only a larger 'final' value to use in comparison graphs, but also see better what values have been trending huigher 
+The dataset itself holds many different subsections of data that sum together to reach the 'total' for a specific section and allows for not only a larger 'final' value to use in comparison graphs, but also see better what values have been trending higher that are contributing the most. For this project in particular the most important and used subsection of code is 'total_food_at_home_expenditures_(millions_of_nominal_u.s._dollars)' as it focuses entierly on the purchasing of food without taking into acount eating out or events but on groceries and preparing one's own meals.
 
-## Meathods
+## Meathods:
 
 
-
+## Results:
