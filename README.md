@@ -77,4 +77,6 @@ Not all is doom and gloom however as the very process of studying and analysing 
 
 ## Summary:
 
+The project aims to take and analyse many different factors and statistics of the economy related to the feild of groceries and the things that may effect it to understand any possible changing trends involving it. This is done to see if the recent surge of claims of raising prices and the situation deminishing is a solid one or simply one that was recently swept in the political enviorment of recent times. 
 
+Throught the course of this project the statistics and created plots and trends have shown credence to the fact that there is a unproportionate upward growth in grocery cost that is outpacing the overall sustainable life of the past and gradually placing more and more of a weight on sustainable living that was more avalable in the past. This is a worrying but not impossible trouble to overcome that will be important for the newer generation to be aware of as we become a part of the workforce.
