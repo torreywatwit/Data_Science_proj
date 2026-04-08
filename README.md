@@ -69,8 +69,11 @@ As seen above in the two provided graphs we have created as part of the data ana
 
 ## Discussion:
 
-From the five questions that we originally sent out to find the answer for, we have been able to not only find a definative and detailed answer to all 5, but gathered an overall conclusion of the nature of the economy that the code and data itself provides to us. Overall, the state of the groceries and foodstuffs costs has a dire look twards the future.
+From the five questions that we originally sent out to find the answer for, we have been able to not only find a definative and detailed answer to all 5, but gathered an overall conclusion of the nature of the economy that the code and data itself provides to us. Overall, the state of the groceries and foodstuffs costs has a dire look twards the future. The trends of each of the 5 questions all push forward the idea that things are becoming less sustainable overall when it comes to groceries and grocery prices while the wages and inflation are falling behind leading risk of every year becoming less and less sustainable. 
 
+For the look towards the future that this data analysis provides to us as stated for the reflection on Question 4 and 5 is one of holding back and doing as little as you can when it comes to growing. It is unfortunate of a thing to acknolege but there is a lot of risk of starting a family given that in the current world enviorment even the food and grocery prices are something working against you and your possible future children, all due to people of the past focusing on the short term rather than the long term. 
+
+Not all is doom and gloom however as the very process of studying and analysing the data gives us a head start on understanding and preparing for how the cards are stacked against us in the economic sense in certian feilds. This preparation will allow us to take less things for granted as previous generations have and begin saving and learning tricks to pay less sooner rather than later in order to keep pace.
 
 ## Summary:
 
